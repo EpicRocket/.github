@@ -1,10 +1,15 @@
 ﻿
 ## Unreal Engine 설치 가이드
 
-### 필요 단계
-* **[git 설치](https://git-scm.com/download/win)** <sub>[가이드](GUIDEGIT.md)</sub>
+- 요구 사항
+  * **[git 설치](https://git-scm.com/download/win)** <sub>[가이드](GUIDEGIT.md)</sub>
+    - Github 계정
+  * **[Visual Studio 설치](https://visualstudio.microsoft.com/ko/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)** <sub>[가이드](GUIDEVS.md)</sub>
+    -  Microsoft 계정
+  - <U>선택(권장)</U>
+    * **[Visual Studio code 설치](https://code.visualstudio.com/docs/?dv=win64user)** <sub>[가이드](GUIDEVSCODE.md)</sub>&ensp;|&ensp;**[Notepad++ 설치](https://notepad-plus-plus.org/downloads/)**
 
-* **[Visual Studio 설치](https://visualstudio.microsoft.com/ko/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)** <sub>[가이드](GUIDEVS.md)</sub>
+
 
 ****
 
