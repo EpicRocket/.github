@@ -18,7 +18,7 @@
 
 * **[언리얼엔진](https://github.com/EpicRocket/UnrealEngine.git)**
 
-* **[설치 가이드](../GUIDEUE.md)**
+* **[설치 가이드](https://github.com/EpicRocket/.github/blob/main/GUIDEUE.md)**
 
 ***
 
