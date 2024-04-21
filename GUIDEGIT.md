@@ -15,9 +15,11 @@ winget install --id Git.Git -e --source winget
 
 #### 깃 설치 방법 (Window 사용자라면 위에 방법으로 간단하게 해주세요.)
 ![alt text](resource/Git-2.39.2-64-bit.tmp_lM2JTvTslx.png)
+
 1. `Next`
 
 ![alt text](resource/Git-2.39.2-64-bit.tmp_tsS2ORnw4O.png)
+
 2. 사용 하시는 text edit tool을 선택하고 `Next`
 
 ****
@@ -32,6 +34,12 @@ winget install --id Git.Git -e --source winget
 ![alt text](resource/GitExtensions_Jp5voCAT0b.png)
 
 > C:에 다운 받아야 ContextMenu 레지스트 등록이 정상적으로 됩니다.
+
+###### 첫 설정
+
+![alt text](resource/kmn98jPer8.png)
+
+> `User name`, `User email`, `MergeTool`, `DiffTool`를 지정하고 `Ok`를 누릅니다.****
 
 <sub>**참고자료**</sub>
 ![alt text](resource/Oez2iC6sE2.png)
