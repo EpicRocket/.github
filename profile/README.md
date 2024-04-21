@@ -25,4 +25,4 @@
 
 * **[SProject 게임프로젝트](https://github.com/EpicRocket/SProject.git)**
 
-* **[SProject 기획문서](https://github.com/EpicRocket/SProject.git)**
+* **[SProject 기획문서](https://github.com/EpicRocket/SProjectDesign.git)**
