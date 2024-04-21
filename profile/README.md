@@ -1,10 +1,10 @@
 ﻿
-게임 개발하는 소모임 그룹 입니다.
+취미로 게임을 개발하는 소모임 입니다.
 
 ****
 
 ### 🔎소프트웨어 설치
-🏗️ OS에 대한 지식이 없다면 아래 프로그램은 되도록 <strong>C:</strong>에 설치해주세요.
+🏗️ OS에 대한 지식이 부족하다면 아래 프로그램은 되도록 <strong>C:</strong>에 설치해주세요.
 
 * **[git 설치](https://git-scm.com/download/win)** <sub>[가이드](GUIDEGIT.md)</sub>
 
