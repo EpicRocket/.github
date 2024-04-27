@@ -22,7 +22,7 @@
 
 ***
 
-### 🗄️ Repository
+### :octocat: Repository
 
 * **[SProject 게임프로젝트](https://github.com/EpicRocket/SProject.git)**
 
